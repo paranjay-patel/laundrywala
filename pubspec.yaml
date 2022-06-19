@@ -1,0 +1,59 @@
+name: laundrywala
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.17.1
+  firebase_auth: ^3.3.19
+  modal_progress_hud_nsn: ^0.2.1
+  liquid_progress_indicator: ^0.4.0 
+  font_awesome_flutter: ^10.1.0
+  flutter_image_slideshow: ^0.1.2
+  google_maps_flutter: ^2.1.7
+  http: ^0.13.4
+  image_picker: ^0.8.5+3
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  assets:
+    - images/
+
+
+  
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins/Poppins-Regular.ttf
+        - asset: fonts/Poppins/Poppins-Bold.ttf
+        - asset: fonts/Poppins/Poppins-Medium.ttf
+        - asset: fonts/Poppins/Poppins-SemiBold.ttf
+
+
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204384883396",
+    "project_id": "laundrywala-4ebc8",
+    "storage_bucket": "laundrywala-4ebc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204384883396:android:8bd5f4a140e63c965a6f91",
+        "android_client_info": {
+          "package_name": "com.crimbidance.laundrywala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204384883396-7n4edkent2713u3s81lqlphgedbqosbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1lwI19oaFNgOtYj0hISzUd_QxfcxqHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204384883396-7n4edkent2713u3s81lqlphgedbqosbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
